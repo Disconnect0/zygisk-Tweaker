@@ -33,23 +33,6 @@
                 ]
             },
             {
-                "package": ["com.tencent.tmgp.sgame", "com.levelinfinite.sgameGlobal"],
-                "tweaker" : [
-                    {
-                        "rate": 120,
-                        "brand": "vivo",
-                        "model": "V2254A",
-                        "device": ""
-                    },
-                    {
-                        "rate": 90,
-                        "brand": "vivo",
-                        "model": "V2025A",
-                        "device": ""
-                    }
-                ]
-            },
-            {
                 "package": "com.tencent.tmgp.pubgmhd",
                 "tweaker" : [
                     {
@@ -222,18 +205,7 @@
                 ]
             },
             {
-                "package": ["com.ea.gp.apexlegendsmobilefps", "com.levelinfinite.hotta.gp", "com.mobile.legends", "com.mobilelegends.mi", "com.supercell.clashofclans", "com.vng.mlbbvn"],
-                "tweaker" : [
-                    {
-                        "rate": 90,
-                        "brand": "Xiaomi",
-                        "model": "21081111RG",
-                        "device": ""
-                    }
-                ]
-            },
-            {
-                "package": ["com.netease.lztgglobal", "com.pubg.krmobile", "com.rekoo.pubgm", "com.riotgames.league.wildrift", "com.riotgames.league.wildrifttws", "com.riotgames.league.wildriftvn","com.vng.pubgmobile"],
+                "package": ["com.netease.lztgglobal", "com.pubg.krmobile", "com.rekoo.pubgm","com.vng.pubgmobile"],
                 "tweaker" : [
                     {
                         "rate": 90,
@@ -257,7 +229,7 @@
         ],
         "unity": [
             {
-                "package": ["com.riotgames.league.teamfighttactics", "com.tencent.jkchess", "com.sofunny.Sausage"],
+                "package": ["com.sofunny.Sausage"],
                 "settings": {
                     "fps": 120,
                     "time": 15,
